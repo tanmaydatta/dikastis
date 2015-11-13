@@ -1,0 +1,18 @@
+{
+    "1": {
+        "status": "OK",
+        "msg": "AC"
+    },
+    "3": {
+        "status": "OK",
+        "msg": "TLE"
+    },
+    "2": {
+        "status": "OK",
+        "msg": "CE"
+    },
+    "4": {
+        "status": "OK",
+        "msg": "WA"
+    }
+}
