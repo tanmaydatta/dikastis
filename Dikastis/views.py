@@ -10,7 +10,7 @@ import Queue
 import threading
 
 
-base_path = os.path.abspath(os.path.join("", os.pardir)) + "/Dikastis"
+base_path = os.path.abspath(os.path.join("", os.pardir)) + "/dikastis"
 inq = Queue.Queue()
 outq = Queue.Queue()
 submit_count = 1
